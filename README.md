@@ -1,3 +1,4 @@
-# ichw
-我是jsy，来自北京大学，大一新生,城市与环境学院。
-I’m David, a freshman from pku，College of Urban and Environmental Science.
+# # ichw
+# 我是蒋思远，城市与环境学院新生。
+我的邮箱是1800013222@pku.edu.cn
+我的微信号是David0412294,大家可以通过微信联系我
